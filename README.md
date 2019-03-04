@@ -7,3 +7,4 @@ tugas-labkom-2019-xi-2-dmitri-mendeleyev created by GitHub Classroom
 5. 17.63.08640- Fadhila Nurrizqa
 6. 17.63.08756- Nabila Putri N. W. P.
 7. 17.63.08621- Dareen Wafa F.
+8. 17.63.08764- Nandini P. N F.
